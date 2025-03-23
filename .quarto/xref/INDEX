@@ -1,0 +1,21 @@
+{
+  "blog/first-post/index.qmd": {
+    "index.html": "c1921280"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "aabf96ac"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "7e6b764b"
+  },
+  "cv.qmd": {
+    "cv.html": "39a8dd27",
+    "cv.tex": "5c2adea4"
+  },
+  "index.qmd": {
+    "index.html": "fa1e8c06"
+  },
+  "projects/index.qmd": {
+    "index.html": "4937ad25"
+  }
+}
