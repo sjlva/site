@@ -15,5 +15,13 @@ website:
         
 format:
   html:
+    linkcolor: "#1f77b4"
+    link-external-icon: true
+    highlight-style: grayscale
+    html-math-method: webtex # webtex
+    html-table-processing: none
+    mainfont: Latin Modern Roman
+    monofont: Latin Modern Mono
+    reference-location: margin
     theme: [cosmo, styles.scss]
 

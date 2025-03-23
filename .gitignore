@@ -20,3 +20,5 @@
 
 # RStudio files
 .Rproj.user/
+
+/.quarto/
