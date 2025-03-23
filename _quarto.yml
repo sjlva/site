@@ -6,10 +6,7 @@ website:
   title: "Home"
   open-graph: true 
   page-footer: ""
-  navbar:
-    right:
-      - text: CV
-        href: cv.qmd
+  search: false
         
 format:
   html:

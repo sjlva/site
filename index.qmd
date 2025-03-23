@@ -11,6 +11,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/sjlva
+    - text: CV
+      href: https://sjlva.github.io/site/cv.html
 ---
 
 Hello!
