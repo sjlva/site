@@ -11,8 +11,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/sjlva
-    - text: CV
-      href: cv.qmd
 ---
 
 Hello!

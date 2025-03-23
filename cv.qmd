@@ -21,7 +21,7 @@ format:
 - Developed and designed an internal GCP big data framework in order to standardize and streamline processes in Google Cloud Platform projects.
 - Consulting for Companies such as EDP, J&J, SECIL and Servier in Data Engineering projects
 
-    **e.g.:** Spearheaded the automation of summarising telephone conversations. We achieved a significant cost reduction, bringing the cost of summarising each phone call to just 20 cents—over a 95% savings. More details [here](https://bi4allconsulting.com/en/knowledgecenter/finsolutia/).
+    **e.g.:** Spearheaded the automation of summarising telephone conversations. We achieved a significant cost reduction, bringing the cost of summarising each phone call to just 20 cents—over a 95% savings. [More details](https://bi4allconsulting.com/en/knowledgecenter/finsolutia/).
 
 ### [Engineering Ingegneria Informatica Spa](https://www.eng.it/en)
 
@@ -54,7 +54,8 @@ and physical stores data from multiple sources.
 
 - Work presented at the 1st Brazilian Congress of Clinical Evidence at COVID-19, showing how the proposed score has shown excellent results compared to other existing ones and how it is simple to use and easy to interpret.
 
-    - Check the projects [here](https://abc-score.netlify.app/) and [here](https://mmcd-score.netlify.app/)
+    - [abc-score](https://abc-score.netlify.app/)
+    - [mmcd-score](https://mmcd-score.netlify.app/)
 
 #### Publications (co-author)
 
