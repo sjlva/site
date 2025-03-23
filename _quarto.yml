@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  open-graph: true 
+  page-footer: ""
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: CV
+        href: cv.qmd
+        
+format:
+  html:
+    theme: [cosmo, styles.scss]
+

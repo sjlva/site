@@ -1,0 +1,83 @@
+---
+title: CV
+subtitle: Rafael Silva
+date-modified: today
+format:
+  html: default
+  pdf: default
+---
+
+[Email](mailto:rafaelsilva@posteo.net) /
+[GitHub](https://github.com/sjlva) /
+[LinkedIn](https://linkedin.com/in/sjlva) /
+[Website](https://sjlva.github.io/site)
+
+
+## Employment
+
+### [BI4ALL](https://bi4allconsulting.com/)
+
+**Data Engineer/Cloud Architect | May 2022 - present**
+
+- Developed and designed an internal GCP big data framework in order to standardize and streamline processes in Google Cloud Platform projects.
+- Consulting for Companies such as EDP, J&J, SECIL and Servier in Data Engineering projects
+
+    **e.g.:** Spearheaded the automation of summarising telephone conversations. We achieved a significant cost reduction, bringing the cost of summarising each phone call to just 20 cents—over a 95% savings. More details [here](https://bi4allconsulting.com/en/knowledgecenter/finsolutia/).
+
+### [Engineering Ingegneria Informatica Spa](https://www.eng.it/en)
+
+**Data Engineer | Jan 2021 - Apr 2022**
+
+- Designed and built an Data Product that reduced by ~70% the manual process for digitizing, computing and storing documents for some legal teams in two big companies.
+- Designed and implemented near real time data pipelines to process different e-commerce,
+and physical stores data from multiple sources.
+- Worked closely with data science teams to help build internal data science workflows.
+
+### [Vallourec](https://www.vallourec.com/)
+
+**Data Engineer Intern | Feb 2020 - Jan 2021**
+
+- Development and maintenance of Shiny tools capable of delivering reports and statistical models according to the demands of each area of the company's various specialized plants.
+
+### [Oper](https://operdata.com.br)
+
+**Data Scientist Intern | Feb 2019 - Feb 2020**
+
+- Development of statistical solutions from structuring, analyzing and modeling data to delivering Shiny applications.
+
+## Education
+
+### B.S in Statistics, Federal University of Minas Gerais (UFMG)
+
+#### Honors and Awards 
+
+**1st Brazilian Congress of Clinical Evidence at COVID-19 - (2021) : 1st Place**
+
+- Work presented at the 1st Brazilian Congress of Clinical Evidence at COVID-19, showing how the proposed score has shown excellent results compared to other existing ones and how it is simple to use and easy to interpret.
+
+    - Check the projects [here](https://abc-score.netlify.app/) and [here](https://mmcd-score.netlify.app/)
+
+#### Publications (co-author)
+
+1. [Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients](Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients)
+2. [Predictors of venous thromboembolism in COVID-19 patients: results of the COVID-19 Brazilian Registry](https://link.springer.com/article/10.1007/s11739-022-03002-z)
+3. [Chagas disease and SARS-CoV-2 coinfection does not lead to worse in-hospital outcomes](https://www.nature.com/articles/s41598-021-96825-3)
+4. [ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores](https://www.ijidonline.com/article/S1201-9712(21)00605-6/fulltext)
+
+
+### Technical Degree, Eletronics Technology Federal Center for Technological Education of Minas Gerais (CEFET-MG)
+
+#### Honors and Awards 
+
+**XXIII META (CEFET-MG, 2013): 2nd Place - Control of parking spaces**
+
+- We developed a protoboard circuit capable of controlling parking spaces, using only logic gates/Boolean algebra.
+Our project also became classroom material for the laboratories of the digital electronics discipline.
+
+### Contributions
+
+1. [abc2sph](https://abc-score.netlify.app/)
+2. [mmcd](https://mmcd-score.netlify.app/)
+3. [Google Cloud - Dataproc Templates](https://github.com/GoogleCloudPlatform/dataproc-templates)
+4. [solar - low tech magazine](https://github.com/lowtechmag/solar_v2)
+5. [ggcharts](https://github.com/thomas-neitmann/ggcharts)

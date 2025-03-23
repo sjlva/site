@@ -1,0 +1,26 @@
+---
+title: "Rafael Silva"
+subtitle: "rafaelsilva [at] posteo [dot] net"
+image: profile.jpg
+about: 
+  template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sjlva
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/sjlva
+    - text: CV
+      href: cv.qmd
+---
+
+Hello!
+
+I’m Rafael.
+
+I’m a data engineer and cloud architect – I help people to make better, data-driven decisions. To achieve this, I design and implement data pipelines and  cloud architectures. By leveraging automation, distributed computing, and cloud services, I help organizations streamline data operations improve decision-making, and [more](cv.qmd).
+
+I also enjoy running, cooking and photography (with bargain bin cameras, off course). 
+
+I'm based on Porto, Portugal.
