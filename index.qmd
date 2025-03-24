@@ -21,6 +21,6 @@ I’m Rafael.
 
 I’m a data engineer and cloud architect – I help people to make better, data-driven decisions. To achieve this, I design and implement data pipelines and  cloud architectures. By leveraging automation, distributed computing, and cloud services, I help organizations streamline data operations, improve decision-making, and [more](https://sjlva.github.io/site/cv.html).
 
-I also enjoy [running](https://www.strava.com/athletes/127424707), giant walks, and photography (with bargain bin cameras, off course). 
+I also enjoy [running](https://www.strava.com/athletes/127424707), giant walks, reading and photography. 
 
 I'm based on Porto, Portugal.
