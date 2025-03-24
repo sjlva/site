@@ -59,7 +59,7 @@ and physical stores data from multiple sources.
 
 #### Publications (co-author)
 
-1. [Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients](Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients)
+1. [Development and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients](https://pubmed.ncbi.nlm.nih.gov/37280651/)
 2. [Predictors of venous thromboembolism in COVID-19 patients: results of the COVID-19 Brazilian Registry](https://link.springer.com/article/10.1007/s11739-022-03002-z)
 3. [Chagas disease and SARS-CoV-2 coinfection does not lead to worse in-hospital outcomes](https://www.nature.com/articles/s41598-021-96825-3)
 4. [ABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores](https://www.ijidonline.com/article/S1201-9712(21)00605-6/fulltext)
