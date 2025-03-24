@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Home"
+  favicon: images/favicon.png
   search: false
         
 format:
