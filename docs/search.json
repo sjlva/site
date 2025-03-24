@@ -9,21 +9,21 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "Email / GitHub / LinkedIn / Website"
   },
   {
     "objectID": "cv.html#employment",
     "href": "cv.html#employment",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Employment",
     "text": "Employment\n\nBI4ALL\nData Engineer/Cloud Architect | May 2022 - present\n\nDeveloped and designed an internal GCP big data framework in order to standardize and streamline processes in Google Cloud Platform projects.\nConsulting for Companies such as EDP, J&J, SECIL and Servier in Data Engineering projects\ne.g.: Spearheaded the automation of summarising telephone conversations. We achieved a significant cost reduction, bringing the cost of summarising each phone call to just 20 cents—over a 95% savings. More details.\n\n\n\nEngineering Ingegneria Informatica Spa\nData Engineer | Jan 2021 - Apr 2022\n\nDesigned and built an Data Product that reduced by ~70% the manual process for digitizing, computing and storing documents for some legal teams in two big companies.\nDesigned and implemented near real time data pipelines to process different e-commerce, and physical stores data from multiple sources.\nWorked closely with data science teams to help build internal data science workflows.\n\n\n\nVallourec\nData Engineer Intern | Feb 2020 - Jan 2021\n\nDevelopment and maintenance of Shiny tools capable of delivering reports and statistical models according to the demands of each area of the company’s various specialized plants.\n\n\n\nOper\nData Scientist Intern | Feb 2019 - Feb 2020\n\nDevelopment of statistical solutions from structuring, analyzing and modeling data to delivering Shiny applications."
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "Education",
     "text": "Education\n\nB.S in Statistics, Federal University of Minas Gerais (UFMG)\n\nHonors and Awards\n1st Brazilian Congress of Clinical Evidence at COVID-19 - (2021) : 1st Place\n\nWork presented at the 1st Brazilian Congress of Clinical Evidence at COVID-19, showing how the proposed score has shown excellent results compared to other existing ones and how it is simple to use and easy to interpret.\n\nabc-score\nmmcd-score\n\n\n\n\nPublications (co-author)\n\nDevelopment and validation of the MMCD score to predict kidney replacement therapy in COVID-19 patients\nPredictors of venous thromboembolism in COVID-19 patients: results of the COVID-19 Brazilian Registry\nChagas disease and SARS-CoV-2 coinfection does not lead to worse in-hospital outcomes\nABC2-SPH risk score for in-hospital mortality in COVID-19 patients: development, external validation and comparison with other available scores\n\n\n\n\nTechnical Degree, Eletronics Technology Federal Center for Technological Education of Minas Gerais (CEFET-MG)\n\nHonors and Awards\nXXIII META (CEFET-MG, 2013): 2nd Place - Control of parking spaces\n\nWe developed a protoboard circuit capable of controlling parking spaces, using only logic gates/Boolean algebra. Our project also became classroom material for the laboratories of the digital electronics discipline.\n\n\n\n\nContributions\n\nabc2sph\nmmcd\nGoogle Cloud - Dataproc Templates\nsolar - low tech magazine\nggcharts"
   },
@@ -53,6 +53,6 @@
     "href": "index.html",
     "title": "Rafael Silva",
     "section": "",
-    "text": "Hello!\nI’m Rafael.\nI’m a data engineer and cloud architect – I help people to make better, data-driven decisions. To achieve this, I design and implement data pipelines and cloud architectures. By leveraging automation, distributed computing, and cloud services, I help organizations streamline data operations improve decision-making, and more.\nI also enjoy running, cooking and photography (with bargain bin cameras, off course).\nI’m based on Porto, Portugal."
+    "text": "Hello!\nI’m Rafael.\nI’m a data engineer and cloud architect – I help people to make better, data-driven decisions. To achieve this, I design and implement data pipelines and cloud architectures. By leveraging automation, distributed computing, and cloud services, I help organizations streamline data operations, improve decision-making, and more.\nI also enjoy running, giant walks, and photography (with bargain bin cameras, off course).\nI’m based on Porto, Portugal."
   }
 ]

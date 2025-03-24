@@ -4,8 +4,6 @@ project:
 
 website:
   title: "Home"
-  open-graph: true 
-  page-footer: ""
   search: false
         
 format:

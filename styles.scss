@@ -14,4 +14,9 @@ $font-family-sans-serif: "Times", "Times New Roman", serif;
 $font-family-monospace: "Courier", "Courier New", monospace;
 $font-size-root: 17px;
 
+::selection {
+  background-color: yellow; // Change to your desired background color
+  color: black;            // Change to your desired text color
+}
+
 

@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Curriculum Vitae
 subtitle: Rafael Silva
 date-modified: today
 format:
