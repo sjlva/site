@@ -22,6 +22,8 @@ format:
 - Consulting for Companies such as EDP, J&J, SECIL and Servier in Data Engineering projects
 
     **e.g.:** Spearheaded the automation of summarising telephone conversations. We achieved a significant cost reduction, bringing the cost of summarising each phone call to just 20 cents—over a 95% savings. [More details](https://bi4allconsulting.com/en/knowledgecenter/finsolutia/).
+    
+    **Main Stack:** `Python, SQL, Linux, GCP (BigQuery, CloudRun, Composer, Dataflow, VectorDB, etc.), Git, CI/CD, ...`
 
 ### [Engineering Ingegneria Informatica Spa](https://www.eng.it/en)
 
@@ -32,17 +34,23 @@ format:
 and physical stores data from multiple sources.
 - Worked closely with data science teams to help build internal data science workflows.
 
+    **Main Stack:** `Python, SQL, Linux, AWS (DynamoDB, Compute, Kinesis, Lambda, etc.), GCP (BigQuery, CloudRun, Composer, Dataflow, VectorDB, etc.), Git, CI/CD, ...`
+    
 ### [Vallourec](https://www.vallourec.com/)
 
 **Data Engineer Intern | Feb 2020 - Jan 2021**
 
 - Development and maintenance of Shiny tools capable of delivering reports and statistical models according to the demands of each area of the company's various specialized plants.
 
+    **Main Stack:** `Python, R, SQL, Linux, Git, CI/CD, AWS, ...`
+    
 ### [Oper](https://operdata.com.br)
 
 **Data Scientist Intern | Feb 2019 - Feb 2020**
 
 - Development of statistical solutions from structuring, analyzing and modeling data to delivering Shiny applications.
+
+    **Main Stack:** `R, SQL, Linux, Git, CI/CD, ...`
 
 ## Education
 
